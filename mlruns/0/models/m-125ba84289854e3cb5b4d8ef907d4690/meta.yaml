@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/Taxi%20Trip%20Duration%20Prediction/Taxi-Trip-Duration-Predictor/mlruns/0/models/m-125ba84289854e3cb5b4d8ef907d4690/artifacts
+creation_timestamp: 1758522548797
+experiment_id: '0'
+last_updated_timestamp: 1758522573710
+model_id: m-125ba84289854e3cb5b4d8ef907d4690
+model_type: null
+name: model
+source_run_id: b6e4b6e692b24b0196ee632ff44de715
+status: 2
+status_message: null

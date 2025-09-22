@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/Taxi%20Trip%20Duration%20Prediction/Taxi-Trip-Duration-Predictor/mlruns/0/models/m-125ba84289854e3cb5b4d8ef907d4690/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.2
+model_id: m-125ba84289854e3cb5b4d8ef907d4690
+model_size_bytes: 173037
+model_uuid: m-125ba84289854e3cb5b4d8ef907d4690
+prompts: null
+run_id: b6e4b6e692b24b0196ee632ff44de715
+utc_time_created: '2025-09-22 06:29:08.979049'

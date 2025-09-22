@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/Taxi%20Trip%20Duration%20Prediction/Taxi-Trip-Duration-Predictor/mlruns/0/bb898ba55dff487082315ca870b57eba/artifacts
+end_time: 1758522544617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb898ba55dff487082315ca870b57eba
+run_name: XGBRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758522518596
+status: 3
+tags: []
+user_id: HP
